@@ -1,11 +1,11 @@
 
 ## Stanford Cars Classification using three models
 #### 1 вариант ~ 80% точности InceptionV3
--  [ссылка на модель 1](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs/blob/main/models/1_CNN.ipynb)
+-  [ссылка на модель 1](https://github.com/JuliaBars/CV_cars_with_PyTorch/tree/main/InceptionV3)
 #### 2 вариант ~ 84% точности EfficientNet-b1
-- [ссылка на модель 2](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs/blob/main/models/2_CNN_data_augmentation.ipynb)
+- [ссылка на модель 2](https://github.com/JuliaBars/CV_cars_with_PyTorch/tree/main/EfficientNet-b1)
 #### 3 вариант ~ 94.79% точности EfficientNet-b7 with Mish and Ranger
-- [ссылка на модель 3](https://www.kaggle.com/code/ikhushpatel/ignite-car-classification-ikhushpatel-khush/notebook)
+- [ссылка на модель 3](https://github.com/JuliaBars/CV_cars_with_PyTorch/tree/main/EfficientNet-b7%20Mish%20Ranger)
 
 ---
 ---
