@@ -18,18 +18,28 @@
 ---
 #### 1 модель:
 Author : Khush Patel (@Khush)
+
 Model : InceptionV3
+
 Ephoch : 75
+
 Loss : CrossEntropyLoss
+
 Criterion : SGD
+
 #### Модель Khush Patel на Kaggle [ссылка](https://www.kaggle.com/code/ikhushpatel/ignite-car-classification-ikhushpatel-khush/notebook)
 
 ---
 #### 2 модель:
+
 Author: Sovit Ranjan RathSovit
+
 Model: EfficientNet-b1
+
 Epochs: 50
+
 Loss: CrossEntropyLoss
+
 Optimizer: Adam
 
 #### Статья автора с исходным кодом [Sovit Ranjan RathSovit](https://debuggercafe.com/stanford-cars-classification-using-efficientnet-pytorch/)
@@ -37,10 +47,15 @@ Optimizer: Adam
 ---
 
 ### 3 модель:
+
 Author: Morgan McGuire
+
 Model: EfficientNet-b7 with Mish and Ranger
+
 Epochs: 40
+
 Loss: LabelSmoothingCrossEntropy
+
 Optimizer: a combination of RAdam and Lookahead
 
 #### Репозиторий автора [morganmcg1](https://github.com/morganmcg1/stanford-cars/blob/master/10_stanford_cars_EfficientNet_b7_Ranger_Mish_Trial.ipynb)
