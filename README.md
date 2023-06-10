@@ -44,7 +44,7 @@ Loss: CrossEntropyLoss
 
 Optimizer: Adam
 
-Params : 7 794 184
+Params : In docs 7 794 184
 
 #### Статья автора с исходным кодом [Sovit Ranjan RathSovit](https://debuggercafe.com/stanford-cars-classification-using-efficientnet-pytorch/)
 
@@ -62,6 +62,6 @@ Loss: LabelSmoothingCrossEntropy
 
 Optimizer: a combination of RAdam and Lookahead
 
-Params : 66 347 960
+Params : In docs 66 347 960
 
 #### Репозиторий автора [morganmcg1](https://github.com/morganmcg1/stanford-cars/blob/master/10_stanford_cars_EfficientNet_b7_Ranger_Mish_Trial.ipynb)
