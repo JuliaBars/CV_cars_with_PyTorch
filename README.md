@@ -27,6 +27,8 @@ Loss : CrossEntropyLoss
 
 Criterion : SGD
 
+Params : 	27 161 264
+
 #### Модель Khush Patel на Kaggle [ссылка](https://www.kaggle.com/code/ikhushpatel/ignite-car-classification-ikhushpatel-khush/notebook)
 
 ---
@@ -41,6 +43,8 @@ Epochs: 50
 Loss: CrossEntropyLoss
 
 Optimizer: Adam
+
+Params : 	7 794 184
 
 #### Статья автора с исходным кодом [Sovit Ranjan RathSovit](https://debuggercafe.com/stanford-cars-classification-using-efficientnet-pytorch/)
 
@@ -57,5 +61,7 @@ Epochs: 40
 Loss: LabelSmoothingCrossEntropy
 
 Optimizer: a combination of RAdam and Lookahead
+
+Params : 	66 347 960
 
 #### Репозиторий автора [morganmcg1](https://github.com/morganmcg1/stanford-cars/blob/master/10_stanford_cars_EfficientNet_b7_Ranger_Mish_Trial.ipynb)
